@@ -81,7 +81,7 @@ While the replacement launched, the surviving instance in the other AZ served al
 | | |
 |---|---|
 | ![Served from us-east-1a](screenshots/site-az-a.png) | ![Served from us-east-1b](screenshots/site-az-b.png) |
-| ![Requests alternating between instances](screenshots/whoami-loop.png) | ![Failover test output](screenshots/failover-output.png) |
+| ![Requests alternating between instances](screenshots/whoami-loop.png) | ![Failover test output](screenshots/failover-end.png) |
 | ![EC2 instances after failover](screenshots/ec2-instances.png) | ![Target group with healthy targets](screenshots/target-group.png) |
 
 ## Security design
